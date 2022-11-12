@@ -46,6 +46,6 @@ pode acessar a feature e assim executar todos os testes de uma só vez.
 
 caso queira mudar o cenario a ser rodado, somente trocar pela TAG do teste! 
 
-após rodar o teste, rode o comando: node cucumber-html-report.js
+após rodar o teste, rode o comando: node cucumber-html-report
 
 ira criar uma pasta de reports, entre nela e abra o index.html. 
