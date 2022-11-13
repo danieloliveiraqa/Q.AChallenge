@@ -16,7 +16,7 @@ Integrado com:
 1. Node JS
 
 
-- ## 💻 Projeto conta com uma estrutura que usa Cypress v10+ com cucumber, bdd, gherkin, report HTML.
+- ## 💻 Projeto conta com uma estrutura que usa Cypress v10+ com cucumber, bdd, gherkin, report HTML e Page Objects
 
 - Features: cenarios de testes
 - Steps: os passos do comportamento do usuario ao realizar os testes
